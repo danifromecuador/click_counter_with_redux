@@ -1,7 +1,7 @@
 // src/redux/reducers/counterReducer.js
 
 const initialState = {
-  count: 0,
+  count: 20,
 };
 
 export const counterReducer = (state = initialState, action) => {
